@@ -1,2 +1,1 @@
-# Black-monarch-sniper
-Scanner 
+Mohd Afzal
